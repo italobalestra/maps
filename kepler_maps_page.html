@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rome Pizzerias Dashboard</title>
+    <script src="https://unpkg.com/kepler.gl@2.5.5/umd/keplergl.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .maps-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        @media (min-width: 1200px) {
+            .maps-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        .map-card {
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .map-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 70px rgba(0,0,0,0.4);
+        }
+
+        .map-header {
+            padding: 20px 25px;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+        }
+
+        .map-header h2 {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+        }
+
+        .map-header p {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        .map-container {
+            width: 100%;
+            height: 500px;
+            position: relative;
+        }
+
+        .info-section {
+            background: white;
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            margin-top: 30px;
+        }
+
+        .info-section h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+
+        .info-section p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .info-section code {
+            background: #f5f5f5;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.9em;
+            color: #e91e63;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .map-container {
+                height: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🍕 Rome Pizzerias Dashboard</h1>
+            <p class="subtitle">Interactive exploration of pizza locations across Rome</p>
+        </header>
+
+        <div class="maps-grid">
+            <div class="map-card">
+                <div class="map-header">
+                    <h2>Central Rome Pizzerias</h2>
+                    <p>Density view of pizzerias in the historic center</p>
+                </div>
+                <div id="map1" class="map-container"></div>
+            </div>
+
+            <div class="map-card">
+                <div class="map-header" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);">
+                    <h2>All Rome Pizzerias</h2>
+                    <p>Complete overview with clustering</p>
+                </div>
+                <div id="map2" class="map-container"></div>
+            </div>
+        </div>
+
+        <div class="info-section">
+            <h3>About This Dashboard</h3>
+            <p>This dashboard demonstrates how to integrate multiple Kepler.gl maps into a single responsive webpage. The maps show pizzeria locations in Rome, extracted from OpenStreetMap data.</p>
+            <p><strong>Features:</strong> Responsive design, modern card-based layout, smooth animations, and side-by-side comparison of different map views.</p>
+            <p><strong>Data Source:</strong> OpenStreetMap via Overpass API using the query: <code>amenity=restaurant AND cuisine~pizza</code></p>
+        </div>
+    </div>
+
+    <script>
+        // Sample pizzeria data for Rome (you would replace this with your actual GeoJSON data)
+        const sampleData = {
+            type: "FeatureCollection",
+            features: [
+                {
+                    type: "Feature",
+                    properties: { name: "Pizzeria da Baffetto", cuisine: "pizza" },
+                    geometry: { type: "Point", coordinates: [12.4698, 41.8988] }
+                },
+                {
+                    type: "Feature",
+                    properties: { name: "Pizzeria Ai Marmi", cuisine: "pizza" },
+                    geometry: { type: "Point", coordinates: [12.4689, 41.8891] }
+                },
+                {
+                    type: "Feature",
+                    properties: { name: "Pizzeria La Montecarlo", cuisine: "pizza" },
+                    geometry: { type: "Point", coordinates: [12.4723, 41.8969] }
+                },
+                {
+                    type: "Feature",
+                    properties: { name: "Pizzeria Emma", cuisine: "pizza" },
+                    geometry: { type: "Point", coordinates: [12.4715, 41.8956] }
+                },
+                {
+                    type: "Feature",
+                    properties: { name: "Pizzeria Il Leoncino", cuisine: "pizza" },
+                    geometry: { type: "Point", coordinates: [12.4765, 41.9032] }
+                }
+            ]
+        };
+
+        // Configuration for Map 1 - Points view
+        const map1Config = {
+            version: 'v1',
+            config: {
+                mapState: {
+                    latitude: 41.8967,
+                    longitude: 12.4822,
+                    zoom: 12
+                }
+            }
+        };
+
+        // Configuration for Map 2 - Cluster view
+        const map2Config = {
+            version: 'v1',
+            config: {
+                mapState: {
+                    latitude: 41.9028,
+                    longitude: 12.4964,
+                    zoom: 11
+                }
+            }
+        };
+
+        // Initialize Map 1
+        const map1 = new KeplerGl.KeplerGl({
+            mapboxApiAccessToken: 'pk.eyJ1IjoidWJlcmRhdGEiLCJhIjoiY2pwY2owbGFrMDVwNTNxcXdwMms2OWtzZiJ9.1PPVl0VLUQgqrosrI2nUhg',
+            id: 'map1',
+            width: document.getElementById('map1').offsetWidth,
+            height: 500
+        });
+
+        map1.addDataToMap({
+            datasets: {
+                data: sampleData,
+                info: { id: 'pizzerias', label: 'Rome Pizzerias' }
+            },
+            config: map1Config.config
+        });
+
+        document.getElementById('map1').appendChild(map1.getComponent());
+
+        // Initialize Map 2
+        const map2 = new KeplerGl.KeplerGl({
+            mapboxApiAccessToken: 'pk.eyJ1IjoidWJlcmRhdGEiLCJhIjoiY2pwY2owbGFrMDVwNTNxcXdwMms2OWtzZiJ9.1PPVl0VLUQgqrosrI2nUhg',
+            id: 'map2',
+            width: document.getElementById('map2').offsetWidth,
+            height: 500
+        });
+
+        map2.addDataToMap({
+            datasets: {
+                data: sampleData,
+                info: { id: 'pizzerias', label: 'Rome Pizzerias' }
+            },
+            config: map2Config.config
+        });
+
+        document.getElementById('map2').appendChild(map2.getComponent());
+
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            const width1 = document.getElementById('map1').offsetWidth;
+            const width2 = document.getElementById('map2').offsetWidth;
+            
+            map1.setProps({ width: width1, height: 500 });
+            map2.setProps({ width: width2, height: 500 });
+        });
+    </script>
+</body>
+</html>
