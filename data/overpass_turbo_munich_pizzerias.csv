@@ -1,0 +1,629 @@
+@id,@type,name,amenity,cuisine,@lat,@lon
+26593339,node,Pizzeria Don Giovanni,restaurant,,48.3884540,11.7607545
+27558408,node,Casa Della Pizza Alma,restaurant,italian;pizza,48.4650367,11.8618825
+148583675,node,Pizzeria Taormina,restaurant,italian,48.3027461,11.3592902
+185542934,node,Ristorante Pizzeria Al Ruscello,restaurant,italian,48.2261182,11.6740107
+198212895,node,Pizza Hut,restaurant,pizza,48.1756612,11.5594734
+219688132,node,Giuliano Pikke,restaurant,pizza,48.1498914,11.5602390
+243494888,node,da noi - Pizzeria & Ristorante,restaurant,italian,48.0756675,11.6569713
+249520256,node,Bistro Pizzeria Piccolo Mondo,restaurant,italian,47.7755578,11.1286063
+253448613,node,pipapi's,restaurant,pizza;greek;pasta;italian,48.0515756,11.6050143
+255944476,node,La Fattoria,restaurant,pizza,48.1069547,11.4527431
+258643977,node,Il Paradiso,restaurant,italian;pasta;pizza,48.0819466,11.6263468
+260413430,node,Chili Pizza,fast_food,pizza;kebab;burger;regional;italian;turkish,48.0467599,11.9675666
+263886428,node,Antica,fast_food,pizza,48.1285341,11.5989288
+264004572,node,Allora Pizzaservice,fast_food,pizza,48.1134848,11.6154455
+266698148,node,Pizzeria Vicari,restaurant,italian;pizza,48.1311506,11.5966020
+266841592,node,Rusticone,restaurant,pizza;italian,48.1452755,11.3018214
+267550776,node,Pizzeria Roma,restaurant,pizza,48.1094841,12.1156580
+269754938,node,Pizza Bob,fast_food,pizza,48.3125027,10.9620759
+270507122,node,Pizza Fabrique,restaurant,noodle;pizza;salad,48.1120042,11.6757823
+274260432,node,Pinocchio,restaurant,pizza,47.8998024,11.3635954
+280423109,node,Cafe Pizzeria Da Michele,restaurant,italian,47.9086368,11.6746648
+288694736,node,Kreiller's,restaurant,international;pasta;pizza,48.1277397,11.6339939
+289179131,node,Ristorante-Pizzeria Papà Franco,restaurant,italian,48.1759067,11.4657050
+291357953,node,Rama,restaurant,indian;pizza,48.3079761,11.6590477
+292376211,node,Al Forno,restaurant,pizza;italian,48.1391643,11.8544734
+292649995,node,Pizzeria Maurizio,restaurant,italian,47.9466024,11.7935514
+296957927,node,Servus,fast_food,pizza,48.1407438,11.6813099
+303801051,node,La Giara II,restaurant,italian;pizza,48.1968206,11.5454253
+304770119,node,Pöckinger Pizza-Service,fast_food,pizza;indian,47.9616689,11.3070008
+305387019,node,Pizza Moment Heimservice Oberschleißheim,fast_food,pizza,48.2527365,11.5478924
+305439956,node,Pizzeria Sorrento,restaurant,italian;pizza,47.8643589,12.0005349
+305441453,node,Terra Mia,restaurant,italian;pasta;pizza,47.8646756,12.0090080
+305443364,node,Pizza Peppone,fast_food,italian;pizza,47.8661362,12.0148451
+305693097,node,Risto-Pizza Ciro Borrelli,restaurant,italian;pizza;pasta,48.2070105,11.5351003
+306549629,node,Joe Marino,restaurant,italian;burger;pizza,48.1201214,11.4276589
+306610198,node,Lieferservice Chili-Pizza,restaurant,burger;kebab;pasta;pizza,47.8629804,12.0074389
+307463691,node,La Bella,fast_food,pizza,48.1576972,11.6422264
+307463692,node,Avaya Pizzeria und Kebap,fast_food,kebab;pizza,48.1584196,11.6423149
+307535899,node,Saletta Giesing,restaurant,pizza;local,48.1150963,11.5699427
+310535817,node,Zum Alten Wirt,restaurant,regional;croatian;italian;pizza,47.8910166,12.0794831
+312289593,node,Pizzeria da Giuseppe Marechiaro,restaurant,,48.3182719,11.5604712
+312346816,node,PRETO E BRANCO,restaurant,pizza,48.3035128,11.4951272
+313713168,node,Ristorante Pizzeria Al Dente,restaurant,pizza;italian,48.1664034,11.5792711
+315953316,node,Pizza Verde,restaurant,pizza,48.1489444,11.5451948
+318646730,node,Ristorante Perte,restaurant,pizza;italian,48.0976529,11.5818302
+318709638,node,Mama Pizza,fast_food,pizza,48.1287857,11.6142386
+318766281,node,PizzaExpress,restaurant,pizza,48.1300414,11.3633329
+320746276,node,Korfu,restaurant,greek;pizza,48.1712970,11.7203222
+322916653,node,Manto's Pizza,restaurant,italian;pizza,48.1295677,11.5423436
+329332128,node,Domino's,fast_food,pizza,48.1338813,11.5224028
+332739269,node,Il Castagno,restaurant,italian;pizza,48.1405253,11.5487312
+332790697,node,Pizza Avanti,fast_food,pizza,48.1497454,11.5607384
+342211070,node,Pizza Avanti,fast_food,pizza,48.1405242,11.5182524
+343261983,node,Call a Pizza,fast_food,pizza,48.1257798,11.5999016
+345275647,node,Marco Pizza,restaurant,pizza,48.2739883,12.1492358
+345796251,node,Mozzamo,restaurant,italian_pizza;turkish,48.1512940,11.5727329
+347643805,node,Mike's Pizza,fast_food,pizza,48.1941811,11.5470038
+348146578,node,Lo Studente,restaurant,italian;pizza,48.1504856,11.5756451
+350448650,node,Restaurant-Pizzeria Firenze,restaurant,pizza,48.1651385,11.3247882
+350449289,node,Ristorante Pizzeria Primavera,restaurant,italian,48.1751369,11.3245020
+350450441,node,Restaurant-Pizzeria Torcello,restaurant,italian,48.1749458,11.3249674
+350453489,node,Eichenau Pizza,restaurant,pizza;burger,48.1584406,11.3221889
+355684367,node,L’Incontro Ristorante Pizzeria,restaurant,italian,48.0996286,11.5308910
+364716673,node,Il Caminetto Ristorante Pizzeria,restaurant,italian,48.1604309,12.1857039
+366572180,node,Mino,fast_food,pizza,48.0626526,12.2323964
+369746003,node,Osteria del Garda,restaurant,italian;pizza,47.8326444,12.1304369
+372952208,node,Avanti,fast_food,pizza,48.2567722,11.4698497
+382015387,node,Restaurant Pizzeria Rustichella,restaurant,italian,47.9539301,11.2682750
+387455905,node,Ciao Napoli,restaurant,pizza,48.1612914,11.5885169
+389927756,node,Al Ruscello,restaurant,italian;pizza,47.7755024,12.0048554
+391927479,node,La Pizza Amore,restaurant,italian;pizza,48.2751150,12.1530051
+392625561,node,Villa della Farina,restaurant,pizza,48.1366516,11.3854235
+402841554,node,Abseits,restaurant,regional;croatian;pizza,47.9754461,11.7688195
+409497586,node,Beru Pizza Bar,restaurant,pizza,48.1319927,11.5664658
+409497624,node,Mixto Cucina,restaurant,pizza,48.1312653,11.5665750
+410577974,node,Azko's Restaurant,restaurant,burger;mediterranean;pizza,48.0888099,11.6681833
+412788032,node,Pizzeria Ristorante Italy,restaurant,italian,48.3316168,11.3052621
+416342032,node,Di Palma,fast_food,pizza,48.1779323,11.5676567
+417672176,node,Bartu Bio-Eis & Bio-Pizza,restaurant,pizza;ice_cream,48.1607861,11.5829938
+418589820,node,Trattoria Da Bello & Bello,restaurant,italian;pizza,48.1584819,11.5699367
+430288321,node,Bella Pizza,fast_food,pizza,48.2628911,11.4630532
+431390559,node,Call a Pizza,fast_food,pizza,48.1666872,11.5907098
+433435689,node,Call a Pizza,fast_food,pizza,48.1523701,11.5558368
+437545881,node,Gioia,restaurant,pizza;italian;burger;pasta,48.1285967,11.5754565
+441299277,node,Calzone Pizza,fast_food,pizza,48.1633702,11.5747424
+441299287,node,Da Larosa,restaurant,pizza;italian,48.1661643,11.5814076
+442683434,node,Nasirs Kitchen,fast_food,pizza;burger,48.1580647,11.5754640
+443340601,node,Opera Pizza Gourmet,restaurant,pizza;italian,48.1591015,11.5663522
+450136637,node,Gaststätte Krapf Pizzeria da Mimmo,restaurant,italian,48.0675741,11.3785570
+450150331,node,Pizzaburger Family,restaurant,burger;pizza,48.1328067,11.3621499
+452642229,node,Pizza Studio,restaurant,pizza,48.1625294,11.5808752
+454571073,node,Capri,restaurant,pizza,48.1631381,11.5906028
+471194414,node,AyuB,restaurant,turkish;pizza;burger;salad;dessert;pasta,48.1764688,11.2426809
+471515019,node,Martha Pizzarei,restaurant,pizza,48.1782976,11.2548984
+473502613,node,Gaststätte Birkhahn,restaurant,regional;pizza,48.2869138,11.0173067
+475879738,node,Phone Pizza,fast_food,pizza,48.1201136,11.5734233
+494163804,node,La Tana del Lupo,restaurant,italian;pizza,48.1320953,11.3659583
+498816112,node,Pizza da Leonardo,fast_food,italian;pizza,48.1649464,11.4643379
+499479655,node,Joti Pizza,fast_food,pizza;thai,48.0828991,11.8259741
+504465523,node,Alter Wirt,restaurant,regional;pizza,48.0870702,11.0246307
+512589955,node,Pizzeria Sardegna,restaurant,pizza,48.4258276,11.2982306
+514553687,node,PizzaService Punjab,fast_food,pizza,48.1679671,11.3430045
+534746421,node,La Barca,fast_food,pizza,48.1464870,11.6321218
+558624036,node,San Benno,restaurant,italian;pizza;pasta;seafood;ice_cream,48.1509528,11.5517180
+567463733,node,Pizza Service FFB,fast_food,pizza,48.1764830,11.2583962
+569921257,node,American Fried Chicken,fast_food,chicken;pizza,48.1181870,11.5160333
+582623381,node,Enrico Rossini,fast_food,pizza,48.1834286,11.5326823
+589996260,node,Concetta,restaurant,italian;pizza,48.3982557,11.6050333
+601497054,node,Call a Pizza,fast_food,pizza,48.1228337,11.3667233
+606964155,node,Ristorante Pizzeria Roma,restaurant,italian,48.1597512,11.5457609
+612771885,node,Gegenüber,restaurant,pizza,48.1525506,11.5743981
+614594820,node,Bombay Pizza Express,restaurant,pizza,48.5310169,11.5068646
+615651641,node,Il Galeone,restaurant,italian;pizza,48.1526965,11.6134527
+616204334,node,non solo pizza,restaurant,italian;pizza,47.8827755,11.9152444
+623594918,node,Trattoria Pizzeria da Salvino,restaurant,italian,48.0623919,11.6151749
+628598565,node,Pizza Taxi,fast_food,pizza,48.2510236,11.6517160
+630393069,node,Call a Pizza,fast_food,pizza,48.2516760,11.6505801
+632009317,node,Taste Pizza,restaurant,pizza,48.1216360,11.6132364
+639122762,node,AMICI Pizzeria,restaurant,italian,48.1627372,11.7570788
+648117699,node,Ristorante Pizzeria Alpenhof,restaurant,italian,48.1178752,11.5815467
+660671258,node,Infinito,restaurant,pizza;italian,48.5305324,11.5066420
+663545246,node,Buon Gusto,restaurant,italian;pizza,48.1388900,11.5504312
+669556044,node,Osteria - Pizzeria con Cucina,restaurant,italian,48.0762304,11.9711441
+672077950,node,Merchinger Pizza Service,fast_food,pizza,48.2466622,10.9870628
+678060312,node,Avanti,fast_food,pizza,48.2134623,11.5397546
+678070756,node,Mama Pizza,fast_food,pizza,48.1528532,11.5075790
+691208744,node,Da Pietro,restaurant,pizza,47.9331507,12.0147041
+692759791,node,Avanti Pizza,fast_food,pizza,48.1111743,11.5337697
+693584434,node,La Luna,restaurant,italian;pizza,48.1520179,11.5288434
+696786235,node,Trattoria Pizzeria Italiana,restaurant,italian,48.1325521,11.6667948
+699724069,node,Tosto,fast_food,italian;pizza,48.1156305,11.5797262
+703979519,node,Pizzesco,fast_food,pizza,48.1313375,11.5895465
+769898515,node,La Frasca Ristorante - Pizzeria,restaurant,italian,48.4810750,12.0145720
+785890687,node,Pizzeria Salento,restaurant,pizza;italian,47.9892331,11.8646264
+798525437,node,Pizzeria Mamma Mia,restaurant,italian,48.1145975,11.6966680
+798574727,node,Pizzeria Krone,restaurant,italian,48.2888134,11.9030754
+814741869,node,Cafe am Tierpark,restaurant,pizza,48.1004666,11.5447759
+821544381,node,Uptown Pizza,fast_food,pizza,48.1129906,11.5772994
+843257169,node,Ciccio'S Tavernetta Italiana,restaurant,italian;pizza,48.1052487,11.5624401
+843765016,node,Pizzeria L'Italiano,restaurant,italian,48.3664818,12.0336384
+849657347,node,Restaurant Il Tartufo,restaurant,pizza;italian,48.3230739,11.8340622
+850876779,node,Damaskino,restaurant,oriental;pizza;salad;dessert,48.1774968,11.2524185
+857743068,node,Pizzeria Grano,restaurant,italian,48.1349941,11.5738454
+870845102,node,Pizzeria Regina,fast_food,,48.1365274,11.5560651
+903600303,node,Pizza Avanti,restaurant,pizza,48.0461084,11.6124235
+903613180,node,Ital Pizza,fast_food,pizza,48.0950942,11.5111571
+942788439,node,Napoli,restaurant,pizza,48.1242073,11.3661683
+951386836,node,Pizzeria Storcheneck,restaurant,italian,48.4600111,11.1307514
+958095370,node,Pizzeria Bella India,restaurant,pizza;burger;italian;mexican;dessert;greek;indian;asian,48.3253128,11.7507044
+983500097,node,Call a Pizza,fast_food,pizza,48.0603691,11.6288208
+985008085,node,Pizzeria Mimmo e Co.,restaurant,pizza,48.1276281,11.5565426
+1006289717,node,Bar Italia,restaurant,pizza,48.1276113,11.5973833
+1073613551,node,Domino's,fast_food,pizza,48.0629472,11.6622548
+1089164939,node,Raja-India,restaurant,pizza;indian,48.1296433,11.7001521
+1091830599,node,Forza Napoli,restaurant,pizza,48.1267655,11.5594198
+1100494827,node,da Noi Trattoria Pizzeria,restaurant,pizza,47.8248503,11.3016880
+1106859178,node,Pizzeria Roma,restaurant,german;indian;pizza;thai,48.4637483,11.1369929
+1108403240,node,M1 Pizzeria,restaurant,pizza,48.1327200,11.5666668
+1131675941,node,Wendelsteiner Kebaphaus,fast_food,kebab;pizza,47.7949494,12.1213135
+1140876976,node,pizzabob,fast_food,italian;pizza,48.3874444,11.7367750
+1142876113,node,I Wok & La Rustica Pizza,fast_food,pizza;chinese,48.1847109,11.5240130
+1154276771,node,La Stella D'Oro,fast_food,pizza,48.1564732,11.5581938
+1177518894,node,Valentino,restaurant,pizza,47.8553150,12.1262880
+1198386925,node,Passaparola,restaurant,pizza;wine,48.1295937,11.5985236
+1201804326,node,Call a Pizza,fast_food,pizza,48.1348656,11.5343319
+1216016468,node,Garbo Bar Pizzeria,restaurant,italian_pizza,48.1610957,11.5757757
+1225118263,node,Falafel Food,restaurant,pizza;kebab;falafel,48.1313753,11.6968496
+1227190668,node,Call a Pizza,fast_food,pizza,48.2052887,11.5631969
+1248497809,node,Pizzeria da Umberto,restaurant,,48.2511273,11.6411210
+1259824488,node,Ristorante Pizzeria Ätna,restaurant,italian,48.3156301,11.6638105
+1259837496,node,Le Vespe trattoria pizzeria,restaurant,italian,48.3165997,11.6597600
+1260115672,node,Pizza & Chicken d'Amore,fast_food,chicken;pizza,48.4552004,11.1288302
+1277479819,node,Domino's,fast_food,pizza,48.2013213,11.5870012
+1310625918,node,"TSV Eching Sportgaststätte ""Palla Pazza""",restaurant,italian;pasta;pizza,48.2967320,11.6286360
+1314738303,node,Pizzeria & Café Flamingo,restaurant,italian,48.0991629,11.5580950
+1315208220,node,La Sophia,restaurant,pizza,48.1228117,11.5760110
+1338583264,node,Wunderbar,restaurant,pizza,48.1312827,11.3709388
+1345217964,node,Pizzeria Dei,restaurant,italian,48.0262573,11.5812334
+1347141646,node,Little Italy,restaurant,pizza,48.1398375,11.5069842
+1361996367,node,Amici,restaurant,italian;pizza;pasta,48.4016094,11.7471397
+1362713310,node,Ristorante Pizzeria Forestella,restaurant,italian,48.0709934,11.3937282
+1363816330,node,Pizza Tomate,fast_food,pizza,48.1263199,11.5979351
+1365412423,node,Pizza de Christiano,fast_food,pizza,48.1523647,11.8533210
+1365851657,node,Paprika,fast_food,turkish;kebab;pizza;salad;falafel,48.3995703,11.7412852
+1403513724,node,Sportgaststätte Pizzeria Bella,restaurant,,48.1556584,11.0833166
+1425553466,node,Il Cappo,restaurant,pizza,48.1464700,11.4615155
+1425637769,node,Call a Pizza,fast_food,pizza,48.1451291,11.4588556
+1426110710,node,Call a Pizza,fast_food,pizza;burger,47.8450157,11.1452638
+1426489875,node,Pizza Avanti,fast_food,pizza,48.1436744,11.4581190
+1427851037,node,Pizza & Pasta Paulo,fast_food,pizza,48.1922275,11.5874960
+1439177328,node,Pizzeria Da Inda am Campo Sportivo,restaurant,italian;indian;thai,47.9477180,11.1124305
+1440422524,node,City Pizza,fast_food,pizza,48.1845732,11.5842997
+1444923175,node,Zio Pizza,fast_food,pizza,48.1160646,11.6124181
+1465036778,node,Pizza Freechoice,fast_food,pizza;burger,48.0664122,11.3799148
+1484811328,node,Rossini Pizza & Kebap Haus,fast_food,kebab;pizza,48.1051362,11.7872068
+1493201767,node,Pasta&Pizza Little Italy,restaurant,pizza;pasta;salad,48.0800685,11.6456434
+1494200093,node,Ristorante-Pizzeria Amalfi,restaurant,italian,48.1177013,11.5258635
+1506604285,node,Pizza Al Forno,restaurant,pizza,48.1848934,11.5842672
+1508979148,node,Il Monococco,restaurant,pizza,47.8560180,12.1192940
+1517358991,node,Casa della Pizza,fast_food,italian;pizza,48.1285820,11.5721797
+1528526189,node,Husanti Pizza,fast_food,pizza;burger;italian;international;chicken;ice_cream,48.0983767,11.7877620
+1542276776,node,Da Daniele Ristorante,restaurant,pizza;italian,48.2663001,10.9886109
+1556177950,node,del Duca,restaurant,italian;italian_pizza,48.1932878,11.6410966
+1567305574,node,Pizzamore da Giovanni,restaurant,pizza,48.1512374,11.5634594
+1583220781,node,La Cassetta,fast_food,pizza,48.5121387,11.9026791
+1611778571,node,Solo Pizza,restaurant,pizza,48.1257403,11.5805742
+1635301694,node,Pullach Pizza Doner Haus,fast_food,kebab;pizza,48.0578824,11.5214751
+1644706684,node,Call a Pizza,fast_food,pizza,47.8525449,12.1013648
+1645044535,node,Pizza Hut,restaurant,pizza,48.1391716,11.5625914
+1645286148,node,Kaimug,fast_food,regional;pizza;italian;international;thai,48.2496600,11.6340592
+1647682444,node,Fellini,restaurant,italian;pizza,48.2013975,11.6070004
+1660981202,node,Charly Pizza,fast_food,pizza,48.0637501,11.6136506
+1669037443,node,Il Cacciatore Osteria - Steinofen,restaurant,italian;pizza;osteria,48.0983286,11.4990357
+1674679536,node,Osteria Da Massimo,restaurant,italian;italian_pizza;pizza,48.1692247,11.5329542
+1692348426,node,L´Angolo della Pizza,restaurant,pizza;italian,48.1311482,11.6065393
+1714857736,node,The RIVER Restaurant & Pizzeria,restaurant,balkan;fish;pasta;pizza,48.1123927,11.5042961
+1717521995,node,Bella Italia,restaurant,pizza,47.8449420,11.1463494
+1732149568,node,Toni.O,restaurant,italian;italian_pizza,48.1744879,11.5853350
+1740722806,node,Uno Pizza e Pasta,restaurant,pizza,48.2246981,11.6687073
+1741222723,node,Italo Restorantino,restaurant,italian;pizza;pasta,48.1166980,11.5379478
+1757471448,node,Pizzeria Da Anna,restaurant,italian,47.9885314,12.1284543
+1757471458,node,Pizzeria Michelangelo,restaurant,italian,47.9827585,12.1273195
+1770341787,node,Staro Pizza & Pasta,fast_food,pizza,48.1486047,11.5735643
+1781380778,node,Break,restaurant,italian;pizza,48.0728310,11.5368306
+1786709966,node,Pizzeria Da Toni,restaurant,italian,48.3642438,11.4590648
+1788436052,node,Melone,fast_food,pizza;kebab;asian;salad;falafel,48.1006138,11.5294984
+1793487065,node,Domino's,fast_food,pizza,48.1147532,11.5928939
+1813648595,node,Pepe Nero,restaurant,italian;italian_pizza,48.1298569,11.5696991
+1813648882,node,L'angolino,restaurant,italian;pizza;pasta,48.1306441,11.5994175
+1822636874,node,Big Pizza,restaurant,pizza,48.3463927,12.1311384
+1826892222,node,Da Maria,restaurant,italian;pizza,48.1337721,11.5370793
+1827670843,node,Pizza King - American Pizza,fast_food,pizza,48.4658871,11.9410646
+1840355361,node,Pizza Avanti,fast_food,pizza,48.1803561,11.5076990
+1840432627,node,Bürger's Moosach,restaurant,italian;pizza;burger,48.1811949,11.5100037
+1846833107,node,Pizzarium,restaurant,pizza,48.0720683,11.8879255
+1887563324,node,PizzaExpress,restaurant,pizza,48.2075190,11.3278790
+1888780463,node,Amigo Pizza Heimservice,fast_food,pizza;burger;indian;asian;mexican;international;chicken;ice_cream,48.1047079,11.7660430
+1927068359,node,Viva,restaurant,pizza,48.1463729,11.4631276
+1962225140,node,La migliore,restaurant,pizza,48.1187948,11.5836487
+1973948933,node,Pizzeria Europa,restaurant,italian,48.1193743,11.5421915
+1979273066,node,Domino's,fast_food,pizza,48.1314702,11.6142556
+1989612199,node,Etna am Berg,restaurant,german;pizza;pasta;italian,48.5231189,12.1693566
+2026451491,node,Pizzeria Milano,restaurant,pizza,48.2755648,11.8394285
+2054228994,node,pizza 4 you,fast_food,pizza,48.4049633,11.7557259
+2090877936,node,Napoli,restaurant,pizza,48.1009716,11.2892514
+2116908652,node,Mama Pizza,restaurant,pizza,48.3057677,11.9063357
+2151172867,node,Pizza und Pasta,fast_food,indian;pizza;thai,48.3854592,11.0504425
+2153034848,node,Ristorante Roma,restaurant,italian;pizza,47.8614593,12.1723583
+2157960949,node,Dorfgemeinschaftshaus Tulling,restaurant,regional;pizza,48.0832465,12.0589029
+2185560060,node,La Trinacria D'Oro,restaurant,pizza;italian,48.4348845,11.6057634
+2238839792,node,Deepak,restaurant,pizza,48.4155288,11.4795521
+2253157762,node,MiraMar - Wartenberg,restaurant,pizza;mediterranean,48.3982347,11.9927316
+2280514967,node,Nuovo Mondo,restaurant,italian;pizza,48.3120893,11.9197990
+2283339405,node,60 seconds to napoli,restaurant,pizza,48.1364146,11.5718353
+2283468296,node,Pizzeria Iris,restaurant,pizza,48.4474532,11.8486611
+2292435619,node,Rosso Pizza,restaurant,pizza,48.1489089,11.5773863
+2293024690,node,Trattoria Pizzeria da Zia Ada,restaurant,pizza,48.4440616,10.9598783
+2337462929,node,La Rocca,fast_food,pizza;burger;pasta,48.1004516,11.5403404
+2337466745,node,Heray,fast_food,kebab;pizza,48.1005353,11.5407414
+2338452432,node,Big Boss,fast_food,pizza;asian,48.1453326,11.4701618
+2367635894,node,Solo Italia,restaurant,italian_pizza,48.1148808,11.5757578
+2378104619,node,Selt' am See,fast_food,burger;salad;regional;sausage;pizza;sandwich,47.8199424,12.1319291
+2379302164,node,Enoteca Delizie,restaurant,italian;pizza,48.0258832,11.5958579
+2382862876,node,Bene's Kuchl,restaurant,bavarian;pizza,48.1021152,11.5650068
+2412921667,node,Restaurant Pizzeria Histria,restaurant,italian,47.8439180,12.0647460
+2419655615,node,Fun Pizza,fast_food,pizza,48.1549865,11.5333862
+2459086163,node,Gasthaus Hinterholzer,restaurant,pizza,47.9770708,11.9577938
+2482583266,node,Münchner Pizza,restaurant,pizza,48.1547768,11.5615513
+2484399610,node,Manbirs Gilchinger Pizza-Service,fast_food,pizza;asian,48.1006712,11.2929785
+2488863121,node,Due Fratelli,restaurant,pizza,48.1390646,11.5471649
+2494377347,node,Pizza Avanti,restaurant,pizza,48.3551488,10.9438695
+2604958084,node,Mike´s Pizza,fast_food,pizza,47.8393578,11.1429176
+2632858885,node,Va Bene,restaurant,italian;pizza,48.3013299,11.8967550
+2632893072,node,Mamma Mia,fast_food,pizza,48.3085388,11.9086960
+2643811321,node,Pizza Hof Heimservice,fast_food,pizza,48.2025101,11.5736474
+2648685579,node,Pizzeria,restaurant,italian;pizza,47.8570137,11.4061826
+2682255340,node,Trattoria / Pizzeria L'Olive,restaurant,italian,48.0362889,11.2179899
+2688904419,node,Al Gusto,restaurant,pizza,48.4234081,11.5233627
+2689878501,node,Erol Döner,fast_food,pizza;kebab;chicken,48.4572527,11.1255395
+2702485495,node,Pizzeria Trattoria Piccante,restaurant,italian,48.2554130,11.4396593
+2717374851,node,Call a Pizza,fast_food,pizza,48.2595365,11.4588041
+2732377608,node,Call a Pizza,fast_food,pizza,48.1761967,11.5202803
+2734941058,node,Punkto,restaurant,italian;pizza,48.1315046,11.5682113
+2756933072,node,DöPierra,fast_food,kebab;pizza,48.3089669,11.9083773
+2787301300,node,Il Buco,restaurant,italian_pizza,48.1595685,11.5581150
+2808914286,node,Gaststätte Freizeitanlage Dasing,restaurant,pizza;regional,48.3931056,11.0729288
+2849943283,node,Berliner 12,fast_food,kebab;pizza,48.3552334,10.9452702
+2874053295,node,Da Lorenzo,restaurant,pizza;italian,48.1101940,11.7331954
+2903644301,node,Mazagan,restaurant,kebab;pizza,48.2036579,11.5634717
+3018107278,node,Rialto Pizza,fast_food,pizza;italian;indian;asian,48.1049323,11.7873916
+3066468141,node,Momento,fast_food,pizza;kebab;burger,48.1256672,11.5402585
+3094794613,node,Aichacher Pizza Express Lieferdienst,restaurant,pizza,48.4651683,11.1414066
+3097868885,node,Domino's,fast_food,pizza,48.0984275,11.5129510
+3184233722,node,Calvello‘s Pizza,restaurant,italian_pizza,48.1528458,11.5624824
+3190286039,node,Pizza La Gondola,fast_food,pizza,48.1830492,11.5664159
+3201175281,node,Pizza Center Mering-St. Afra,fast_food,pizza,48.2798719,10.9703546
+3220940904,node,La Fontanina,restaurant,italian;pizza,48.0527058,11.0910586
+3266608770,node,Smiley's Pizza,fast_food,pizza,48.1306532,11.6185099
+3353133285,node,Istanbul Döner Pizza,fast_food,pizza;kebab,48.3851381,11.0503378
+3362301468,node,Bistro Felice,restaurant,pizza,47.8601151,12.1084219
+3452084726,node,,restaurant,pizza,48.3804437,11.4132546
+3458081604,node,Call a Pizza,fast_food,pizza,48.0980685,11.5099182
+3481053959,node,Bollicine,restaurant,italian;pizza,48.0670244,11.3801897
+3495216360,node,La Antica Pizzeria da Tony,restaurant,pizza,48.1182879,11.6301256
+3548500729,node,Foodland Pizza & Döner,fast_food,pizza;kebab;salad,47.9423631,12.0415513
+3605926394,node,Dua Pizza,restaurant,pizza,48.1254734,11.5611269
+3643387754,node,Caesar,restaurant,pizza,48.1379417,11.5446127
+3655297725,node,King Butt,fast_food,pizza,48.1379148,11.5441469
+3662676843,node,Eddy's Bodega,restaurant,pizza;steak,47.7164296,11.7203589
+3668464609,node,Trattoria Pizzeria Da Leonardo,restaurant,italian;pizza;pasta,47.9784317,12.1379061
+3677813783,node,Zum Phönix Trattoria Pizzeria da Luigi,restaurant,italian,48.2458789,11.5598842
+3681174346,node,ArteBianca pizza in pala,restaurant,pizza,48.1392345,11.5193861
+3714226771,node,Pizza Rialto,fast_food,pizza,48.1902524,11.8697112
+3720007425,node,Insieme Pizzeria Lounge Bar,restaurant,italian,48.1032499,11.4207885
+3720148601,node,Pizza Haus,restaurant,pizza,47.8761157,11.7001530
+3728309828,node,Cappuccino Gelato e Caffé,restaurant,pizza,48.1031588,11.4203364
+3729642068,node,il Sapore,restaurant,pizza;italian,48.0523100,11.7663343
+3743071683,node,Panini,restaurant,italian;burger;pizza,48.0536015,11.0991372
+3761601227,node,Punto Gola,restaurant,pizza,48.1730313,11.5974287
+3767111717,node,Pizzeria Ariana,restaurant,pizza,48.5271388,11.4981419
+3768607938,node,Primo Pizza- & Salatbar,restaurant,pizza,48.5278891,11.5071737
+3818652447,node,Ristorante-Pizzeria Casale,restaurant,italian,48.1350918,11.3530894
+3829584802,node,Bella Italia,restaurant,pizza,47.8480925,12.0912761
+3869464079,node,Pizzeria Rosso Pomodoro,restaurant,italian,48.1345340,11.5748818
+3869608993,node,Clubhouse Grill & Bar,restaurant,pizza;burger,48.0883848,11.4037621
+3900500866,node,Dal Salentino,restaurant,italian_pizza,48.2162651,11.5602445
+3900500869,node,Pizza Milano,fast_food,pizza,48.2125848,11.5560095
+3922501206,node,Bella Pizza,restaurant,pizza,48.2052137,11.3260242
+3927325636,node,Sessanta,restaurant,pizza,48.1099008,11.5755340
+3996144061,node,Mama Pizza,fast_food,pizza,48.0843062,11.4943898
+4016181342,node,Fischmeister,restaurant,italian;pasta;pizza;fish;meat,48.4018180,11.7497318
+4042515322,node,Fit'Aliana,restaurant,italian;pizza,48.0902992,11.5033652
+4100379791,node,Amici,restaurant,italian;italian_pizza,48.1950007,11.6421619
+4144364566,node,Pizzeria Romana,restaurant,italian;pizza,48.1465905,11.7297024
+4202119207,node,höfler's 5,restaurant,italian;pizza,47.7593726,11.5517274
+4207478540,node,L'Italiano,restaurant,pizza,47.8230134,11.2970919
+4215470489,node,Pizzeria da Sacco,restaurant,pizza,47.8573827,11.8020073
+4232308460,node,Pizza Roma,restaurant,pizza,48.0875044,12.0310381
+4236029390,node,Pizzahaus,fast_food,pizza;burger,48.1299385,11.5596688
+4264422083,node,Piccola Italia,restaurant,pizza,47.8572397,12.1235226
+4266066193,node,Mimo pizza,fast_food,pizza,48.1519494,11.5286389
+4293994529,node,Pizzaria La Tombola,restaurant,italian_pizza,47.8357002,11.1405381
+4306282489,node,TİJEY‘s Döner & Pizza,restaurant,kebab;pizza,47.7897850,12.1140340
+4310595881,node,Toni Pizza Express,fast_food,indian;pizza;thai,47.7498550,11.3735984
+4315501594,node,Grazia,restaurant,pizza,48.1314424,11.5884044
+4349397398,node,Mercy,restaurant,pizza,47.7920999,12.1163033
+4382568093,node,Pizzeria Portofino,restaurant,italian,48.1052424,11.5931812
+4408183417,node,Pizza Mondo 2,fast_food,pizza,48.1169361,11.5303701
+4417609547,node,Mama Pizza,fast_food,pizza,48.2015081,11.5429879
+4439211502,node,Green Elephant,restaurant,italian;pizza,48.1164964,11.5009205
+4450166435,node,Restaurant Parkclub,restaurant,regional;italian_pizza;pasta,48.1603415,11.5135656
+4470479390,node,Djudi,fast_food,turkish;kebab;pizza,48.1504855,11.5661476
+4471859771,node,111 Pizzeria,restaurant,pizza;italian,48.1398852,11.5329125
+4475917331,node,Bella Italia,restaurant,italian_pizza,47.7164285,11.7245713
+4504021786,node,Locanda Re Alarico,restaurant,italian;pizza,48.1099777,11.5672855
+4540867502,node,Domino's,fast_food,pizza,48.1227196,11.5451337
+4560213893,node,Pizzeria Sotera,restaurant,,47.7677384,12.0808368
+4583816273,node,Florenz Ristorante Pizzeria,restaurant,italian,48.1627503,11.5444408
+4638577189,node,Ferale Pizza Preisenberg,fast_food,italian_pizza;italian;pizza,48.4958160,12.1487463
+4663412642,node,Lokanta,fast_food,kebab;falafel;pizza,48.1173947,11.5396601
+4669804029,node,Il Brigante,restaurant,italian;pizza,47.9911321,11.4567239
+4680244780,node,Phone Pizza,fast_food,pizza,48.0628207,11.6784172
+4680304396,node,Bistro caffe - italianpizza.de,fast_food,coffee_shop;pizza,48.1432511,11.4233833
+4680304992,node,Pizza la spaghettata,fast_food,pizza,48.1453858,11.4227929
+4681660789,node,Tijeys Döner & Pizza,fast_food,barbecue;kebab;pizza;turkish,47.8706553,11.9988141
+4703256997,node,Pizzeria La Piazzetta,fast_food,,47.9929854,12.0058020
+4706561811,node,La Pignata,restaurant,italian;pizza,47.9023697,12.1558601
+4727813108,node,Pizza Punjabi,fast_food,indian;pizza,48.0770223,11.7133875
+4738142999,node,La Calabrisella,fast_food,pizza,48.1205016,11.5752775
+4742695542,node,Da Donato e Petra,restaurant,italian;pizza,47.7915633,12.1142124
+4753331221,node,Brüder Pizza,fast_food,pizza;burger;pasta,48.0536210,11.6657154
+4789842121,node,Pizzeria Sicilia Antica,restaurant,pizza;italian,48.3041339,10.9718650
+4834668044,node,Leckero,fast_food,kebab;pizza,48.1126765,11.5869495
+4853772525,node,Ariana Pizza Haus,fast_food,pizza;kebab,48.1958429,11.3733769
+4855132622,node,shorty,fast_food,pizza,48.1287346,11.5746881
+4908441952,node,3D Restaurant & Bar,restaurant,pizza;burger;steak;italian,48.1489660,11.5265903
+4939032421,node,Call a Pizza,fast_food,pizza,48.1089107,11.5368532
+4958784432,node,Pizza Ghetti,restaurant,pizza,48.1594389,11.5849927
+4980388581,node,Lugano Pizzaservice,fast_food,pizza,48.1095410,11.0860020
+4993162421,node,Domino's,fast_food,pizza,48.1502321,11.5460156
+5028942623,node,Call a Pizza,fast_food,pizza,48.0879171,11.6686071
+5056921058,node,Toskana Pizza Service,fast_food,pizza,48.1311223,11.5637126
+5091212156,node,PizzaExpress,restaurant,pizza,48.1800161,11.3611179
+5102005531,node,Pizzeria da Massimo,restaurant,italian,48.3874083,11.2565660
+5108514257,node,Pizza L'Italiano Lieferdienst,fast_food,pizza,48.0830458,11.9677746
+5169152842,node,La Bella Napoli,restaurant,italian;pizza,48.5106316,12.1560253
+5174174156,node,Call a Pizza,fast_food,pizza;burger;ice_cream;salad,48.1149937,11.6967946
+5176705064,node,Oro Nero - Weinbar,restaurant,italian;pizza,48.4082190,11.7409186
+5198358434,node,mama pizza,restaurant,pizza,48.1455730,11.5608069
+5200101429,node,Domino's,fast_food,pizza,48.1066393,11.6438253
+5222333005,node,Al Vicolo,restaurant,italian_pizza,48.1848570,11.5949160
+5277877062,node,Domino's,fast_food,pizza,48.1480522,11.4616155
+5277877063,node,Domino's,fast_food,pizza,48.1480915,11.4616277
+5286594222,node,Andi's Stehcafe,fast_food,pizza,47.8324841,11.1263341
+5310043426,node,Spice of India,restaurant,indian;burger;asian;pizza,47.9961543,11.3396720
+5518834059,node,Eiscafe Pizzeria Donatello,restaurant,italian,48.0735709,11.6044030
+5539971122,node,Pizza 2000,fast_food,pizza,48.2156367,11.2539964
+5552132521,node,K2 Pizzeria,restaurant,pizza,48.1020032,11.6512186
+5567695797,node,Da Mario,restaurant,pizza,47.7377264,12.1046197
+5579014128,node,Viva Pizzaservice,fast_food,pizza,48.0561648,11.6074033
+5582526580,node,il sogno,restaurant,italian;pizza,48.1390846,11.5685463
+5607068844,node,Döner &Pizza,fast_food,pizza;kebab,48.0988908,11.6533123
+5695386210,node,Isler Imbis,fast_food,turkish;pizza,48.2560298,10.9866612
+5739469635,node,Da Enzo - Pizza - Pasta,fast_food,pizza;pasta;italian,48.1912243,11.8521798
+5764261800,node,Ristorante Trastevere,restaurant,pizza;italian,47.7108630,11.7537888
+5830305206,node,Pizza Pazza,fast_food,pizza,48.1740240,11.2335130
+5836897248,node,Pizzeria Da Toto,restaurant,italian;pizza,48.1412219,11.5179429
+5840058628,node,Gusto Pizza,restaurant,pizza;italian,48.0953749,11.5874111
+5864355400,node,Saluki,restaurant,italian;pizza,48.1183819,11.5507738
+5865727770,node,EGE,fast_food,kebab;pizza;burger,48.0856702,12.0300349
+5893175586,node,Morelli La PinsaPizzeria,restaurant,,48.1121362,11.5784609
+6027932032,node,Pizza Burger Factory,fast_food,pizza,48.1400726,11.5304242
+6131022523,node,Mike's Pizza,fast_food,burger;pizza,48.0884697,11.4780829
+6163857238,node,Yarar Kebaphaus,restaurant,kebab;pizza,47.8838676,11.6963034
+6252253922,node,Jammy Steinofen Pizza,restaurant,pizza,48.0753917,11.6695718
+6274088934,node,Mike's Pizza,fast_food,pizza,48.2755074,11.5734451
+6295176089,node,The Italian Shot,restaurant,pizza,48.1292810,11.5682665
+6318006790,node,forno veloce,fast_food,pizza,48.1247647,11.6059183
+6345998359,node,La Bere,restaurant,pizza;mexican,48.0813664,11.8647045
+6357102585,node,Pizza Hut,fast_food,pizza,48.1590400,11.5856474
+6359206411,node,Volante,fast_food,pizza;burger,48.1805700,11.5111490
+6373769428,node,Pizza Simon,fast_food,pizza,48.1744259,11.3576468
+6387618532,node,L'Angelo Italiano,fast_food,pizza,48.1564615,11.5582203
+6407360021,node,Dizza,fast_food,kebab;pizza,48.1322700,11.5025547
+6416883922,node,Pizza Arivato,fast_food,pizza;italian,48.1396870,11.6186679
+6422942482,node,Il Vesuvio,fast_food,pizza;italian,48.2257191,11.4746133
+6488388605,node,Kegelkeller Grafing,restaurant,regional;pizza,48.0448567,11.9681538
+6502393704,node,Feinkost alla Famiglia,restaurant,pizza;italian,48.1541269,11.5297522
+6565996185,node,Pizza Sportivo,restaurant,burger;italian;pizza,48.0410382,11.2176379
+6598639457,node,Coucou Food Market,fast_food,pizza;italian;french;kebab;coffee_shop;salad,48.1494868,11.5468157
+6633264401,node,Pizza Avanti Freimann,fast_food,pizza;burger,48.2006190,11.6125382
+6637431668,node,Pizza Napoletana,restaurant,pizza,48.1844533,11.5635266
+6675037948,node,Il Casale,restaurant,italian;pizza;seafood,48.3403798,11.8345504
+6718219119,node,Call a Pizza,fast_food,pizza,47.8805734,11.9332417
+6746144062,node,Pizzeria Iulian,restaurant,pizza,47.9041635,10.9710724
+6798293726,node,Pizzaservice Mering,fast_food,german;indian;italian;pizza;thai,48.2688258,10.9881879
+6814100916,node,Pizzahaus Dasing,fast_food,pizza,48.3842173,11.0483146
+6816696880,node,Pizzeria da Francesco,restaurant,italian,48.3358215,11.3383488
+6851994752,node,Call a Pizza,fast_food,pizza,48.1126157,11.5878223
+6854281612,node,Pizza Pocci,restaurant,pizza,48.1253895,11.5497037
+6899188324,node,La Perla,restaurant,pizza,48.2361269,11.6797401
+6901695288,node,Pizza Tandoori,restaurant,pizza;burger;chinese;italian,48.4299297,11.5940879
+6992812566,node,Ristorante pizzeria la torre,restaurant,italian;pizza,47.7936372,11.0083031
+7117202685,node,Sapori Italiani,restaurant,italian_pizza;italian;ice_cream,47.7041434,11.8774295
+7127045443,node,Pizza Punjabi,restaurant,pizza;regional;burger;italian;indian;ice_cream;thai,48.0440426,11.9665163
+7171766939,node,Pizza Hut,restaurant,pizza,48.2598654,11.5577226
+7193505885,node,Pizzamann Schwabing,fast_food,pizza,48.1551387,11.5852848
+7371772204,node,Weilheimer- Food und Pizzaservice,fast_food,pizza,47.8434731,11.1520686
+7372909202,node,Licone,restaurant,pizza,47.8896383,12.0766681
+7385734641,node,La Gondola Pizza Shop,fast_food,pizza,47.9447175,11.0897253
+7393102309,node,Pizza am Himmelreich,fast_food,pizza,48.2492063,11.4344124
+7438551921,node,Pappa e Ciccia,restaurant,pizza,48.4994298,11.5052585
+7532493279,node,Pizza & Döner King,fast_food,pizza;fast_food,48.0830086,11.8214048
+7597646020,node,Delestan Food,fast_food,kebab;afghan;pizza,48.1453194,11.4709674
+7618391263,node,Paradiso Pizzaservice,fast_food,pizza,48.2670437,10.9869035
+7629350628,node,Pizzeria Da Mose,restaurant,italian,47.8762537,11.9636038
+7674576683,node,Riviera Pizza,fast_food,kebab;pizza;turkish,48.1349458,11.5106313
+7725213368,node,Tattva Indisches Restaurant,restaurant,indian;thai;italian_pizza;italian,48.4764536,11.9369214
+7743860108,node,PIZZALAB,fast_food,pizza,48.1469208,11.5696560
+7744624814,node,La Piccola Famiglia,restaurant,pizza;italian,47.9092577,11.2803759
+7746414283,node,Campo Bello,restaurant,italian;pizza,48.2437120,11.1477631
+7752007339,node,Doctor Drooly,restaurant,pizza,48.1283968,11.5586071
+7795326360,node,Il Grottino,restaurant,pizza,48.4592623,11.9273734
+7828621084,node,Don Andrea Pizza + Pasta,fast_food,italian;pizza,48.5285170,11.5074432
+7855162319,node,Pizzeria Venezia,restaurant,italian,48.1688071,11.8098603
+7890902645,node,Ciao Napoli,restaurant,pizza,48.1280579,11.6192268
+7998235745,node,Shalimar Pizza,fast_food,pizza;pasta;indian;thai;mexican;salad,48.3053684,10.9640936
+8069479147,node,Domino's,fast_food,pizza,48.1812743,11.5131521
+8146381916,node,Da Rocco,restaurant,italian;pizza,47.7595360,11.5519309
+8318234972,node,Serrano Pizza Heimservice,restaurant,pizza;burger,48.1533474,11.5749251
+8372777639,node,,fast_food,italian;pizza,48.1984182,11.6039317
+8401949417,node,Forza Napoli,fast_food,italian_pizza,48.1345349,11.5980075
+8423406831,node,La Pergola,restaurant,italian;pizza,48.2494895,11.6521685
+8467824855,node,Pizza Deliciosa,fast_food,pizza,48.1247751,11.5559250
+8477187749,node,Uno Pizza Heimservice Edling,restaurant,pizza;indian,48.0561899,12.1634412
+8496988539,node,Manolya,fast_food,kebab;pizza;burger,48.3029169,10.9607082
+8586561656,node,Nella,fast_food,pizza;kebab,47.8495037,12.0697334
+8589409253,node,Pizza Verde,restaurant,pizza,48.1576194,11.5780049
+8631856196,node,La Mia Pizza,restaurant,italian;pizza,48.1203920,11.5339271
+8664562257,node,Primo Pizza Heimservice,fast_food,pizza,47.9060170,11.4257780
+8790184321,node,Ciao Bella,fast_food,pizza,48.1008614,11.6440814
+8879441632,node,Isabella - Pizza und Kebaphaus,fast_food,kebab;pizza,48.5306006,11.5060987
+8895866526,node,Call a Pizza Erding,restaurant,pizza;burger;pasta;salad,48.3152895,11.8895827
+8964440381,node,Pizza Buam,fast_food,pizza,48.4541108,11.2109279
+9021654317,node,Pretty Pizza,restaurant,pizza,48.1498270,11.5771857
+9050594197,node,Bell'Amore,restaurant,pizza,47.9109082,11.4204764
+9064723817,node,Pizzeria da Antonio,restaurant,italian,48.4102307,11.4700690
+9142522180,node,,restaurant,pizza,47.7472776,11.8406541
+9161424552,node,Bistro Malor,restaurant,pizza;burger;bistro,47.8583387,11.4826879
+9191274790,node,Pizzaria Italia,fast_food,pizza,48.3038616,11.9025982
+9199354495,node,Erlebnisgaststätte am Weitmannsee,restaurant,balkan;italian;pizza,48.2926309,10.9494281
+9245702207,node,Divan,fast_food,kebab;pizza,48.1867695,11.5724453
+9246165441,node,Pizza Service Friedberg,fast_food,pizza;italian,48.3551606,10.9847616
+9255762654,node,7 Days,fast_food,pizza,48.3983662,11.7383244
+9257833718,node,Pizza Post,fast_food,pizza;italian;indian;thai,48.3509995,10.9864922
+9319446560,node,Blue Notte,restaurant,pizza,48.3043075,11.9121181
+9380165395,node,papa pizza,fast_food,pizza,48.0971587,11.5863892
+9566158380,node,Lucky Pizza Café,restaurant,pizza,48.1854940,11.5524921
+9587080244,node,Der Italiener,restaurant,pizza,48.4623884,11.2490587
+9724581387,node,Pizzeria Don Camillo,restaurant,pizza,47.9966593,11.5105405
+9727509309,node,Pizza Rapido,fast_food,pizza,48.1659804,11.5650053
+9823912594,node,Pizza Oase,fast_food,pizza,48.3918304,10.9757482
+9854383276,node,Milano,restaurant,italian;pizza;ice_cream,47.8495853,12.0682199
+9882823134,node,Amore Pizza & Burger,restaurant,pizza;burger,48.2020256,11.6487113
+9886704868,node,Eis Pizzeria Gazzola,restaurant,italian;noodle;pizza,48.2633787,10.9845592
+9967135417,node,Nenei,restaurant,italian;pizza;pasta,48.0773844,11.1529323
+9983367983,node,Freisinger Dunya,fast_food,kebab;pizza;salad,48.3988247,11.7393843
+10097077992,node,Ihle Bakers`s,restaurant,german;pizza;burger,48.3566709,10.9706573
+10162471117,node,Pizzeria Tre Farine,restaurant,italian_pizza,48.3934520,11.7404971
+10163892851,node,Pizza Pasta Musa Backwaren,fast_food,pizza,48.0770169,11.7187545
+10189282842,node,Pizza Amaretto,fast_food,pizza,48.1186986,11.5835391
+10240205909,node,Languorino,restaurant,italian;italian_pizza,48.1892820,11.4673830
+10284004759,node,Gino's Ristorante Pizzeria,restaurant,italian,47.8301275,12.1091230
+10295053349,node,Bistro im Hallenbad,fast_food,pizza;burger;fries,48.3125446,11.9143792
+10315950222,node,Forza Napoli,fast_food,pizza,48.1599333,11.5746084
+10536435386,node,La Castagna,restaurant,pizza;italian,48.4379400,11.8539877
+10560823110,node,Da Mario e Claudia,restaurant,pizza,47.8485448,12.1304154
+10614605832,node,Zoe's and Friends,restaurant,pizza,48.1637679,11.6286972
+10709793470,node,Royal Pizzeria,restaurant,pizza,48.1653948,11.5738083
+10735350036,node,Pizza Lampo,restaurant,pizza,47.9922526,11.3313561
+10756126178,node,Machete II,restaurant,pizza,48.1124881,11.5514851
+10759967988,node,Pizzeria Da Vito,restaurant,pizza,48.1195383,11.5563409
+10760658837,node,Trattoria Casa Mia,restaurant,italian;pizza,48.3878605,11.7521737
+10784307105,node,Salento Foodtruck,fast_food,italian;pasta;pizza,48.1937058,11.6002821
+10815018911,node,Da Loisi,restaurant,italian;pizza,47.9708152,11.6598040
+10891203174,node,Big Boss,fast_food,pizza,48.0992940,11.6608286
+10951319249,node,Döner Pirat,restaurant,kebab;pizza,48.2226010,11.8036577
+11020303882,node,Call a Pizza,fast_food,pizza,48.1599515,11.5380202
+11046943193,node,Pizza Avanti,fast_food,pizza,48.1779592,11.5672120
+11051705826,node,Lucky Pizza,fast_food,pizza,48.1200394,11.5409003
+11124725545,node,Kastaniengarten,restaurant,pizza;burger,48.3890012,11.6615757
+11160528216,node,Benvenuti al Sud,restaurant,italian;pizza,48.1432392,11.4961508
+11162697416,node,Barakat Pizza & Grill,fast_food,turkish;pizza,48.4698116,11.9361101
+11165706305,node,Duka Pizza & Pasta,restaurant,italian_pizza;pasta,48.3292965,11.6917575
+11183874841,node,Pizzeria Lukas,restaurant,pizza,48.1429773,11.4895829
+11288530764,node,Canapee,restaurant,italian;pizza,48.0465504,11.9674753
+11292973824,node,La Fantasia,restaurant,pizza,48.1350827,11.6025733
+11298609800,node,SORRENTO Pizza Service,restaurant,pizza,48.1289840,11.5713920
+11327869822,node,La Famiglia,restaurant,pizza,47.8462828,12.1193800
+11351352615,node,Motorwold Inn,restaurant,burger;pizza;pasta,48.1965381,11.6078151
+11491284053,node,Pizza 194,restaurant,pizza,48.1224374,11.6608701
+11511915553,node,D´Sallo,restaurant,pizza,48.1783429,11.4064071
+11563975007,node,Pizzeria-il-calcetto,restaurant,pizza,48.2608510,11.9674307
+11597951369,node,Bistro zum Trödler,restaurant,burger;greek;grill;pizza;sandwich,47.7286072,11.2796029
+11599304631,node,PapaAriPizza,fast_food,pizza,48.1291243,11.4936643
+11734950675,node,Pizzaria Murano,restaurant,pizza;italian,48.1826766,11.4725762
+11735001313,node,Manzo Imbiss,fast_food,pizza;turkish,48.1836066,11.4789092
+11824907705,node,Ristorante Da Vito,restaurant,italian;pizza,48.1284389,11.3755045
+11835492760,node,Amore Pizza,restaurant,pizza,47.7556748,11.5602551
+11846542325,node,Schützenstub'n,restaurant,pizza,47.7617732,11.5621270
+11851163034,node,amicomio,restaurant,italian;pizza,48.1352555,11.6609739
+11907452122,node,Mane Restaurant & Bar,restaurant,pizza;burger;German,48.5052863,11.6048115
+11907481751,node,Pizza Calabria,restaurant,pizza,48.5050347,11.6034612
+11922102084,node,Rialto Eiscafe Und Pizzeria,restaurant,italian,47.8760379,11.4655579
+11944814564,node,Restaurant Pizzeria San Marco,restaurant,italian,48.3061033,11.6696624
+12066699206,node,,fast_food,pizza,47.9972857,11.3436945
+12082820260,node,Pizza Express Unterschleißheim,fast_food,pizza,48.2792463,11.5741382
+12248662346,node,Mama Pizza,fast_food,pizza,48.1377453,11.3740000
+12328225491,node,La Pizetta,restaurant,pizza,48.1360498,11.5778533
+12400249216,node,Platz des Pizzagoras,fast_food,pizza,48.0410936,11.6618601
+12401696301,node,Solo Pizza Laim,fast_food,italian_pizza,48.1419430,11.5090100
+12492090501,node,Mahlzeit Döner Kebab,fast_food,burger;kebab;pizza;sandwich;turkish,48.1532287,11.5348399
+12531824272,node,Lust auf Döner 2,fast_food,burger;kebab;pizza,48.1646153,11.4702110
+12554199948,node,Pizzeria La Rosa,restaurant,italian;indonesian;pizza,48.5282915,11.5098115
+12625267818,node,Panuzziz,fast_food,italian;pizza,48.1049166,11.7706826
+12655943951,node,Dolce Vita,restaurant,pizza,48.1875223,11.5039256
+12710651055,node,Il Crusco,restaurant,italian;pizza,47.8370120,12.2089183
+12738995031,node,Et Cetera Pizzeria,restaurant,pizza,48.3321939,11.4457126
+12797333801,node,Sawa fastfood,fast_food,arab;burger;coffee_shop;kebab;pizza;sandwich;tea,48.1306098,11.6185948
+12872920738,node,Ristorante-Pizzeria O'Vesuvio,restaurant,italian,48.2510267,11.5524890
+12895074426,node,Mama Pizza,fast_food,pizza,48.1152493,11.5222483
+12917521828,node,Pizza Roma,fast_food,pizza,47.8707348,11.4719968
+12921286621,node,Pizzaservice Schwabhausen,restaurant,pizza;indian,48.3032684,11.3588449
+12944092973,node,Tasty Kitchen,restaurant,pizza,48.2179996,11.5252184
+12987295921,node,Pizza Milano 10,restaurant,pizza,48.3507635,11.5618854
+12997514203,node,Pizza und Burgerhaus,restaurant,pizza,48.2739512,11.5859456
+13032235462,node,Amigos Pizza & Burger Heimservice,fast_food,pizza,48.2519734,11.5578126
+13048313929,node,Pizza Napoli,fast_food,pizza,48.2552150,11.5594121
+13253668886,node,Orange Octopus,fast_food,pizza,48.1295162,11.3609060
+13277798223,node,Pizza Avanti,fast_food,pizza,48.1239957,11.5668476
+13287684514,node,Papa John's,fast_food,pizza,48.1390483,11.6201304
+13287743883,node,TNT,fast_food,pizza;burger,48.1441642,11.6217354
+13306740305,node,Dachauer Pizza Service,fast_food,pizza,48.2634488,11.4350418
+13342781901,node,Dalui Grid,restaurant,italian_pizza,47.9973814,11.3455550
+38389396,way,Da Francesco,restaurant,italian;pizza,48.2222959,11.6738576
+46892236,way,Staltacher Hof,restaurant,greek;pizza;regional,47.7801907,11.3278971
+56191711,way,Don Camillo & Peppone,restaurant,pizza;italian,47.9056352,11.8371392
+61109487,way,Pizza Avanti,restaurant,pizza,48.1905233,11.4637798
+72684780,way,Bella - Roma,restaurant,pizza;italian;indian,47.9950964,11.1744777
+94337818,way,L'Osteria D'Angelo,restaurant,pizza;italian,47.9437899,11.5759327
+95273554,way,Ristorante Pizzeria Cortina,restaurant,italian;pizza,47.8571063,12.1269363
+98875812,way,Pizza Trento,restaurant,pizza,48.1004672,11.5780094
+103579115,way,Bella Italia im Bierhäusl,restaurant,italian;pizza,47.7459415,11.4649621
+106568874,way,Pizza Adler,fast_food,pizza,48.4603495,11.1240487
+109915642,way,Landgasthof Kriechbaumer,restaurant,italian;pizza;bavarian;noodle;regional,47.8817029,12.0236998
+120080447,way,Pizzeria La Molisana,restaurant,italian,48.5112539,11.1156448
+125018339,way,Ristorante Bellavista,restaurant,pizza;italian,47.8276862,11.4078688
+129251978,way,Le Ginestre,restaurant,italian;pizza,48.3892722,11.7529982
+133145538,way,Pizzeria Carmine,restaurant,italian;pizza,48.0660713,11.3798749
+134421236,way,Trattoria Il Contadino,restaurant,italian;pizza,48.2146685,11.5444029
+137444890,way,La Strada,restaurant,pizza,47.8630170,12.1238631
+150096861,way,Pizzahof Dasing,restaurant,pizza,48.3904881,11.0649243
+152457376,way,Pinocchio,restaurant,pizza,47.7499676,11.8398521
+164114509,way,Ristorante Pizzeria Costa Smeralda,restaurant,mediterranean,47.9087236,11.4362044
+168138372,way,Pizzadienst Rolando,fast_food,italian;pizza,48.1489527,11.7345168
+169051243,way,Ristorante Pizzeria Da Antonio,restaurant,italian,48.0915619,11.4902675
+184653667,way,Italia Antica,restaurant,pizza,47.7650875,11.4021013
+188404009,way,Da Franco,restaurant,pizza,48.5137729,10.9626562
+200398809,way,LaTerza Taverna Osteria Pizzeria,restaurant,italian,48.0286356,11.2510722
+203245853,way,Trattoria Sapori Antiche,restaurant,pizza;italian,47.8222640,12.1529833
+203942613,way,Sportheim Sielenbach,restaurant,pizza,48.3999814,11.1604780
+261241611,way,Trattoria Il Castagno,restaurant,pizza,47.7955656,12.2274181
+262401147,way,Edessa,fast_food,kebab;pizza,47.9073604,11.2734453
+277797876,way,Pizza Portone,restaurant,pizza,47.7506786,11.7382001
+305918272,way,Pizzaria Das Rad,restaurant,pizza,47.8007300,11.0665004
+306145843,way,Pizzeria San Giorgio,restaurant,italian,47.7566367,11.5587326
+327161366,way,Trattoria Pizzeria Mamma Anna,restaurant,italian,48.1365631,11.4271321
+345071310,way,Da Franco,restaurant,pizza,47.7673901,12.1060013
+345967858,way,Sweet Rose,fast_food,bubble_tea;pizza,48.1307326,11.5903359
+364371944,way,Rene's Restaurant Pizzeria,restaurant,italian,47.8991479,11.8323171
+397487674,way,Da Bianca,restaurant,pizza,48.3618447,11.3744727
+462046920,way,Biergarten,restaurant,pizza,48.5139542,10.9624674
+532471058,way,Ristorante Pizzeria Italia,restaurant,italian,48.1615583,12.1857181
+624464583,way,Zur Wagnerei,restaurant,pizza;german,47.7184681,11.4147747
+862502757,way,Tropea Döner & Pizzahaus,fast_food,kebab;pizza,48.3484815,12.1303274
+908840996,way,Döner & Pizza Haus,fast_food,kebab;pizza,48.1440100,11.4377290
+974916341,way,Prima Pizza,fast_food,pizza;italian;indian;thai;chinese;international;ice_cream;regional,48.0752467,11.9683950
+1062952886,way,Holzofen Pizzeria Bella Ischia,restaurant,italian;pizza,48.1901752,11.3800316
