@@ -103,12 +103,21 @@ width: 10px;
               12,  "#B70B4F",
               15,  "#67001F",
             ],
-            "fill-opacity": 0.7
+            "fill-opacity": 0.3
           }
         });      
 
+        map.addLayer({
+          id: "h3-outline",
+          type: "line",
+          source: "h3-hexagons",
+          paint: {
+            "line-color": "#444",
+            "line-width": 0.5
+          }
+        });  
+
         // Add a popup on hover
-        // create popup ONCE
         const popup = new mapboxgl.Popup({
           closeButton: false,
           closeOnClick: false
